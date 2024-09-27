@@ -1,3 +1,4 @@
+# test of writing Assignment2pt1 algorithm and manual calculations as python code
 # pension calculator inputs:
 RATE = 0.014
 # worker's current age:
